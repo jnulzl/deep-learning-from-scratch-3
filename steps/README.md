@@ -1,3 +1,4 @@
+  - from http://books.gotop.com.tw/v_A657#03 and google translate
 
 ## 第一阶段 自动计算微分
 
